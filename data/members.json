@@ -59,4 +59,18 @@
     "rss": "https://yatil.net/feed",
     "twitter": null
   }
+,  
+
+  {
+    "name": "Jacek Zadrożny",
+    "url": "https://informaton.blog",
+    "employment": {
+      "hiring": false,
+      "seeking": false
+    },
+    "linkedin": "http://linkedin.com/in/jaczad",
+    "mastodon": "https://101010.pl/@jaczad",
+    "rss": "https://informaton.blog/feed.xml",
+    "twitter": null
+  }
 ]
