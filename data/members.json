@@ -106,5 +106,18 @@
     "mastodon": "https://mastodon.social/@mattobee",
     "rss": null,
     "twitter": "https://twitter.com/mattobee"
-  }
+  },
+  {
+    "name": "Jacek Zadrożny",
+    "url": "https://informaton.blog/",
+    "employment": {
+      "hiring": false,
+      "seeking": false
+    },
+    "linkedin": "https://www.linkedin.com/in/jaczad/",
+    "mastodon": "https://101010.pl/@jaczad",
+    "rss": "https://informaton.blog/feed.xml",
+    "twitter": "https://twitter.com/jaczad"
+  },
+ 
 ]
